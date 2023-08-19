@@ -31,7 +31,7 @@ by Miguel Avila
 /*─────────────────────────────*/
 
 .urlbarView {
-  display: none !important;
+ /* display: none !important;*/
 }
 
 /*─────────────────────────────*/
@@ -165,7 +165,7 @@ toolbarbutton.bookmark-item:not(.subviewbutton) {
 #pageActionSeparator,
 #tabs-newtab-button,
 #back-button,
-#PanelUI-button,
+PanelUI-button,
 #forward-button,
 .tab-secondary-label {
   display: none !important;
